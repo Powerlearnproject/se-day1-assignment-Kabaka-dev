@@ -9,8 +9,8 @@ Software Engineering Day1 Assignment
 Software Engineering is a branch of computer science essential for developing, testing, deploying and maintaining of programs and softwares.
 
 (i). Innovation:- Software engineering provides the tools and frameworks that enable developers to create innovative solutions.
-(ii). Scalability:- A well-engineered software can be easily updated, debugged and scaled according to users needs, tastes and preferences.
-(iii). Flexibility:- A well-designed software ensures that the system can handle an increased load without affecting performance.
+(ii). Scalability: Well-engineered software can be easily updated, debugged, and scaled according to users' needs, tastes, and preferences.
+(iii) Flexibility: Well-designed software ensures that the system can handle an increased load without affecting performance.
 (iv). Efficiency:- Software engineering helps to optimize developer workflow while maintaining high quality standards.
 (v). Security:- Software engineering implements practices for building secure systems, protecting sensitive data, minimising vulnerabilities and ensuring compliance with ethical regulations.
 
@@ -18,7 +18,7 @@ Software Engineering is a branch of computer science essential for developing, t
 
 (i). The Advent of High-Level Programming Languages (1950s-1960s):-The development of high-level programming languages like FORTRAN (1957) and COBOL (1959) marked a significant shift from machine-level and assembly languages. These languages allowed developers to write code that was more human-readable and easier to maintain.
 (ii). The Introduction of Structured Programming (1970s):-The development of structured programming improved software reliability and maintainability. It encouraged the use of clear, hierarchical structures instead of complex, unstructured code. Languages like Pascal and C were developed and supported structured programming.
-(iii). The Rise of Agile Methodology of SDLC and DevOps (2000s):-The Agile Methodology was introduced by a group of software developers in response to the limitations of traditional software development models like the Waterfall approach and the subsequent rise of DevOps practices in the late 2000s revolutionized software development by emphasizing flexibility, customer collaboration and continuous delivery.
+(iii). The Emergence of Agile SDLC and DevOps (2000s): Agile Methodology was created by software developers as a solution to the shortcomings of conventional models such as the Waterfall approach. The later development of DevOps practices in the late 2000s transformed software development by focusing on adaptability, teamwork with customers, and ongoing delivery.
 
 **3. List and briefly explain the phases of the Software Development Life Cycle.**
 
