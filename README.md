@@ -55,9 +55,13 @@ Software Engineering is a branch of computer science essential for developing, t
 
 
 **9. Define prompt engineering and discuss its importance in interacting with AI models.**
-
-
+Prompt engineering:- this is the art of crafting questions or statements to get refined and the best responses from AI LLMs.
 
 **10. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 
-
+Vague prompt:- Name the tyes of breeds pf dogs.
+Improved prompt:- What are the top three breeds of dogs for families with young children, and what are their key characteristics?
+Reasons why the improved is more effective
+Clarity:- by asking "what are the top three breeds of gogs for families with young children", this specific focus eliminates ambiguity about what aspect of dogs the user is interested in.
+Preciseness:- narrows down the response, making it clear that the user is looking for a ranked list rather than general information about all dogs.
+Conciseness:- the additional details provide a clear picture without being overly complicated making it easire for the response to be generated.
